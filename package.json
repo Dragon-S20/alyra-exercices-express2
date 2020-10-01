@@ -1,0 +1,14 @@
+{
+  "name": "alyra-exercices-express2",
+  "version": "1.0.0",
+  "author": "Dragon-S20 <promoetherjs.dragons20@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "./": "./src/"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "prettier": "^2.1.2"
+  }
+}
